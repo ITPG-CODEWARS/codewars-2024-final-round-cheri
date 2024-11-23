@@ -1,0 +1,16 @@
+[
+    {
+        "train_name": "Express 101",
+        "departure_time": "10:00 AM",
+        "departure_station": "Station A",
+        "arrival_station": "Station B",
+        "arrival_time": "2:00 PM"
+    },
+    {
+        "train_name": "SuperFast 202",
+        "departure_time": "11:00 AM",
+        "departure_station": "Station C",
+        "arrival_station": "Station D",
+        "arrival_time": "3:30 PM"
+    }
+]
